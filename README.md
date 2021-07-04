@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dedendharma5
 - 👀 I’m interested in data science and agriculture
-- 🌱 I’m currently learning data science and chemistry
+- 🌱 I’m currently learning chemistry
 - 📫 dharmadeden@gmail.com
 
 <!---
